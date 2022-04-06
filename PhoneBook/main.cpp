@@ -6,8 +6,8 @@ int main()
 {
 
     PhoneBook phoneb;
-    phoneb.add("Anton", "Burmagin", "89818285439");
-    phoneb.add("Alina", "Shakirova", "89110846447");
+    phoneb.add("Anton", "Burmagin", "89991018417");
+    phoneb.add("Alina", "Shakirova", "89091121453");
 
     QList<Record> list= phoneb.getAll();
     for (auto x : list)

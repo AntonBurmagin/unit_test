@@ -1,6 +1,6 @@
 #include <QtTest>
+#include <phonebook.h>
 
-#include "phonebook.h"
 class TestPhoneBook : public QObject {
     Q_OBJECT
 
@@ -8,15 +8,14 @@ class TestPhoneBook : public QObject {
      TestPhoneBook();
      ~TestPhoneBook();
    private slots:
+     void testAdd() {
+         PhoneBook book;
+         book.add(Record("Bruce", "Wayne", "888-11-888"));
+         QVERIFY2(book.getAll().size()==1, "test add function");
+     }
 };
 
-TestPhoneBook::TestPhoneBook() {
 
-}
-
-TestPhoneBook::~TestPhoneBook() {
-
-}
 
 QTEST_APPLESS_MAIN(TestPhoneBook)
 

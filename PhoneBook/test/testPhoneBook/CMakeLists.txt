@@ -17,7 +17,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 add_executable(testPhoneBook test.cpp)
 target_link_libraries(testPhoneBook PRIVATE PhoneBook)
-add_test(NAME testPhoneBook COMMAND testPhoneBook)
+add_test(NAME TestPhoneBook COMMAND TestPhoneBook)
 
 target_link_libraries(testPhoneBook PRIVATE Qt${QT_VERSION_MAJOR}::Test)
 

@@ -1,0 +1,12 @@
+C:/Users/burma/Desktop/C++/HW/HW-40 unit tests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_32bit-Debug/CMakeFiles/PhoneBook.dir
+C:/Users/burma/Desktop/C++/HW/HW-40 unit tests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_32bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/burma/Desktop/C++/HW/HW-40 unit tests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_32bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/burma/Desktop/C++/HW/HW-40 unit tests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_32bit-Debug/CMakeFiles/PhoneBook_autogen_timestamp_deps.dir
+C:/Users/burma/Desktop/C++/HW/HW-40 unit tests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_32bit-Debug/CMakeFiles/PhoneBook_autogen.dir
+C:/Users/burma/Desktop/C++/HW/HW-40 unit tests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_32bit-Debug/test/CMakeFiles/edit_cache.dir
+C:/Users/burma/Desktop/C++/HW/HW-40 unit tests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_32bit-Debug/test/CMakeFiles/rebuild_cache.dir
+C:/Users/burma/Desktop/C++/HW/HW-40 unit tests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_32bit-Debug/test/testPhoneBook/CMakeFiles/testPhoneBook.dir
+C:/Users/burma/Desktop/C++/HW/HW-40 unit tests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_32bit-Debug/test/testPhoneBook/CMakeFiles/edit_cache.dir
+C:/Users/burma/Desktop/C++/HW/HW-40 unit tests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_32bit-Debug/test/testPhoneBook/CMakeFiles/rebuild_cache.dir
+C:/Users/burma/Desktop/C++/HW/HW-40 unit tests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_32bit-Debug/test/testPhoneBook/CMakeFiles/testPhoneBook_autogen_timestamp_deps.dir
+C:/Users/burma/Desktop/C++/HW/HW-40 unit tests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_32bit-Debug/test/testPhoneBook/CMakeFiles/testPhoneBook_autogen.dir
