@@ -66,7 +66,7 @@
 				},
 				{
 					"backtrace" : 3,
-					"define" : "QT_TESTCASE_BUILDDIR=\"C:/Users/burma/Desktop/C++/HW/HW-40 unit tests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release\""
+					"define" : "QT_TESTCASE_BUILDDIR=\"C:/Users/burma/Desktop/C++/HW/HW-40unitTests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release\""
 				},
 				{
 					"backtrace" : 3,
@@ -76,18 +76,18 @@
 			"includes" : 
 			[
 				{
-					"path" : "C:/Users/burma/Desktop/C++/HW/HW-40 unit tests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release/test/testPhoneBook"
+					"path" : "C:/Users/burma/Desktop/C++/HW/HW-40unitTests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release/test/testPhoneBook"
 				},
 				{
-					"path" : "C:/Users/burma/Desktop/C++/HW/HW-40 unit tests/pr-1/PhoneBook/test/testPhoneBook"
+					"path" : "C:/Users/burma/Desktop/C++/HW/HW-40unitTests/pr-1/PhoneBook/test/testPhoneBook"
 				},
 				{
 					"backtrace" : 0,
-					"path" : "C:/Users/burma/Desktop/C++/HW/HW-40 unit tests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release/test/testPhoneBook/testPhoneBook_autogen/include"
+					"path" : "C:/Users/burma/Desktop/C++/HW/HW-40unitTests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release/test/testPhoneBook/testPhoneBook_autogen/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "C:/Users/burma/Desktop/C++/HW/HW-40 unit tests/pr-1/PhoneBook"
+					"path" : "C:/Users/burma/Desktop/C++/HW/HW-40unitTests/pr-1/PhoneBook"
 				},
 				{
 					"backtrace" : 3,
@@ -132,12 +132,12 @@
 			"id" : "testPhoneBook_autogen_timestamp_deps::@70b2cf7f1f1f6ba00788"
 		},
 		{
-			"backtrace" : 0,
-			"id" : "testPhoneBook_autogen::@70b2cf7f1f1f6ba00788"
-		},
-		{
 			"backtrace" : 2,
 			"id" : "PhoneBook::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "testPhoneBook_autogen::@70b2cf7f1f1f6ba00788"
 		}
 	],
 	"id" : "testPhoneBook::@70b2cf7f1f1f6ba00788",
@@ -212,7 +212,7 @@
 			"backtrace" : 0,
 			"compileGroupIndex" : 0,
 			"isGenerated" : true,
-			"path" : "C:/Users/burma/Desktop/C++/HW/HW-40 unit tests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release/test/testPhoneBook/testPhoneBook_autogen/mocs_compilation.cpp",
+			"path" : "C:/Users/burma/Desktop/C++/HW/HW-40unitTests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release/test/testPhoneBook/testPhoneBook_autogen/mocs_compilation.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
@@ -224,13 +224,13 @@
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
-			"path" : "C:/Users/burma/Desktop/C++/HW/HW-40 unit tests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release/test/testPhoneBook/testPhoneBook_autogen/timestamp",
+			"path" : "C:/Users/burma/Desktop/C++/HW/HW-40unitTests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release/test/testPhoneBook/testPhoneBook_autogen/timestamp",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
-			"path" : "C:/Users/burma/Desktop/C++/HW/HW-40 unit tests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release/test/testPhoneBook/testPhoneBook_autogen/timestamp.rule",
+			"path" : "C:/Users/burma/Desktop/C++/HW/HW-40unitTests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release/test/testPhoneBook/testPhoneBook_autogen/timestamp.rule",
 			"sourceGroupIndex" : 2
 		}
 	],

@@ -1,4 +1,4 @@
-C:/Users/burma/Desktop/C++/HW/HW-40\ unit\ tests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release/test/testPhoneBook/testPhoneBook_autogen/include/test.moc: C:/Users/burma/Desktop/C++/HW/HW-40\ unit\ tests/pr-1/PhoneBook/test/testPhoneBook/test.cpp \
+C:/Users/burma/Desktop/C++/HW/HW-40unitTests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release/test/testPhoneBook/testPhoneBook_autogen/include/test.moc: C:/Users/burma/Desktop/C++/HW/HW-40unitTests/pr-1/PhoneBook/test/testPhoneBook/test.cpp \
   C:/Qt/5.15.2/msvc2019_64/include/QtCore/QAbstractItemModel \
   C:/Qt/5.15.2/msvc2019_64/include/QtCore/QDeadlineTimer \
   C:/Qt/5.15.2/msvc2019_64/include/QtCore/QList \
@@ -214,5 +214,5 @@ C:/Users/burma/Desktop/C++/HW/HW-40\ unit\ tests/pr-1/build-PhoneBook-Desktop_Qt
   C:/Qt/5.15.2/msvc2019_64/include/QtTest/qttestglobal.h \
   C:/Qt/5.15.2/msvc2019_64/include/QtTest/qttestlib-config.h \
   C:/Qt/5.15.2/msvc2019_64/include/QtTest/qttestversion.h \
-  C:/Users/burma/Desktop/C++/HW/HW-40\ unit\ tests/pr-1/PhoneBook/PhoneBook_global.h \
-  C:/Users/burma/Desktop/C++/HW/HW-40\ unit\ tests/pr-1/PhoneBook/phonebook.h
+  C:/Users/burma/Desktop/C++/HW/HW-40unitTests/pr-1/PhoneBook/PhoneBookGlobal.h \
+  C:/Users/burma/Desktop/C++/HW/HW-40unitTests/pr-1/PhoneBook/phonebook.h

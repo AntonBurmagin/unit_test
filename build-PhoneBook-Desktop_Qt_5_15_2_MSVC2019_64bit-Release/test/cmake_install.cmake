@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/burma/Desktop/C++/HW/HW-40 unit tests/pr-1/PhoneBook/test
+# Install script for directory: C:/Users/burma/Desktop/C++/HW/HW-40unitTests/pr-1/PhoneBook/test
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,7 +34,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("C:/Users/burma/Desktop/C++/HW/HW-40 unit tests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release/test/testPhoneBook/cmake_install.cmake")
+  include("C:/Users/burma/Desktop/C++/HW/HW-40unitTests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release/test/testPhoneBook/cmake_install.cmake")
 
 endif()
 

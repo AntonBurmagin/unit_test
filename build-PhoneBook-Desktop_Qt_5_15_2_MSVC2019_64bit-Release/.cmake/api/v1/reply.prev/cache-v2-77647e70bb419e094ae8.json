@@ -39,7 +39,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/burma/Desktop/C++/HW/HW-40 unit tests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release"
+			"value" : "c:/Users/burma/Desktop/C++/HW/HW-40unitTests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -415,7 +415,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/burma/Desktop/C++/HW/HW-40 unit tests/pr-1/PhoneBook"
+			"value" : "C:/Users/burma/Desktop/C++/HW/HW-40unitTests/pr-1/PhoneBook"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -991,7 +991,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/burma/Desktop/C++/HW/HW-40 unit tests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release"
+			"value" : "C:/Users/burma/Desktop/C++/HW/HW-40unitTests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release"
 		},
 		{
 			"name" : "PhoneBook_IS_TOP_LEVEL",
@@ -1027,7 +1027,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/burma/Desktop/C++/HW/HW-40 unit tests/pr-1/PhoneBook"
+			"value" : "C:/Users/burma/Desktop/C++/HW/HW-40unitTests/pr-1/PhoneBook"
 		},
 		{
 			"name" : "QT_CREATOR_SKIP_PACKAGE_MANAGER_SETUP",
@@ -1111,7 +1111,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/burma/Desktop/C++/HW/HW-40 unit tests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release/test/testPhoneBook"
+			"value" : "C:/Users/burma/Desktop/C++/HW/HW-40unitTests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release/test/testPhoneBook"
 		},
 		{
 			"name" : "testPhoneBook_IS_TOP_LEVEL",
@@ -1135,7 +1135,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/burma/Desktop/C++/HW/HW-40 unit tests/pr-1/PhoneBook/test/testPhoneBook"
+			"value" : "C:/Users/burma/Desktop/C++/HW/HW-40unitTests/pr-1/PhoneBook/test/testPhoneBook"
 		}
 	],
 	"kind" : "cache",

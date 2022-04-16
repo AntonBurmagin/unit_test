@@ -17,7 +17,7 @@ int main()
     for (auto x : Burm)
         std::cout << x.firstName.toStdString() << " " << x.lastName.toStdString() << " " << x.phone.toStdString() << std::endl;
 
-    auto fewNumbers = phoneb.filter("084");
+    auto fewNumbers = phoneb.filter("0184");
     for (auto x : fewNumbers)
         std::cout << x.firstName.toStdString() << std::endl;
 

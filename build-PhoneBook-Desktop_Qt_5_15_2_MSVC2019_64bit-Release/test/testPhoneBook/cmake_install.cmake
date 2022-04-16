@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/burma/Desktop/C++/HW/HW-40 unit tests/pr-1/PhoneBook/test/testPhoneBook
+# Install script for directory: C:/Users/burma/Desktop/C++/HW/HW-40unitTests/pr-1/PhoneBook/test/testPhoneBook
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

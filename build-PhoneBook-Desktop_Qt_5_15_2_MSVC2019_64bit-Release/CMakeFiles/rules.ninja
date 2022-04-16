@@ -65,7 +65,7 @@ rule CXX_EXECUTABLE_LINKER__testPhoneBook_Release
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = C:\Qt\Tools\CMake_64\bin\cmake.exe --regenerate-during-build -S"C:\Users\burma\Desktop\C++\HW\HW-40 unit tests\pr-1\PhoneBook" -B"C:\Users\burma\Desktop\C++\HW\HW-40 unit tests\pr-1\build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release"
+  command = C:\Qt\Tools\CMake_64\bin\cmake.exe --regenerate-during-build -SC:\Users\burma\Desktop\C++\HW\HW-40unitTests\pr-1\PhoneBook -BC:\Users\burma\Desktop\C++\HW\HW-40unitTests\pr-1\build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release
   description = Re-running CMake...
   generator = 1
 

@@ -2,7 +2,7 @@
 #define PHONEBOOK_H
 #define PHONEBOOK_EXPORT
 
-#include <PhoneBook_global.h>
+#include <PhoneBookGlobal.h>
 #include <QList>
 
 struct Record {

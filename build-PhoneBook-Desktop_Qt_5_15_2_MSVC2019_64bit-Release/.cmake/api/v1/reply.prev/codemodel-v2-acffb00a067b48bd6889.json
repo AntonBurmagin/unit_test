@@ -98,42 +98,42 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "PhoneBook::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-PhoneBook-Release-ab2f549a05afa1aa77ad.json",
+					"jsonFile" : "target-PhoneBook-Release-1aadeeb57c48e885303d.json",
 					"name" : "PhoneBook",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "PhoneBook_autogen::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-PhoneBook_autogen-Release-a1101d3ad9ad2c18ab78.json",
+					"jsonFile" : "target-PhoneBook_autogen-Release-2dae62c96a780e05def8.json",
 					"name" : "PhoneBook_autogen",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "PhoneBook_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-PhoneBook_autogen_timestamp_deps-Release-cfb2225d10e4dc3a86c0.json",
+					"jsonFile" : "target-PhoneBook_autogen_timestamp_deps-Release-4975cc991d7d3e2a194f.json",
 					"name" : "PhoneBook_autogen_timestamp_deps",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 2,
 					"id" : "testPhoneBook::@70b2cf7f1f1f6ba00788",
-					"jsonFile" : "target-testPhoneBook-Release-e8f5a5a0d64de219753f.json",
+					"jsonFile" : "target-testPhoneBook-Release-c1a51761e071376f6547.json",
 					"name" : "testPhoneBook",
 					"projectIndex" : 1
 				},
 				{
 					"directoryIndex" : 2,
 					"id" : "testPhoneBook_autogen::@70b2cf7f1f1f6ba00788",
-					"jsonFile" : "target-testPhoneBook_autogen-Release-e81fcc3f06449969d2aa.json",
+					"jsonFile" : "target-testPhoneBook_autogen-Release-6cea22f92cf640aa8fd2.json",
 					"name" : "testPhoneBook_autogen",
 					"projectIndex" : 1
 				},
 				{
 					"directoryIndex" : 2,
 					"id" : "testPhoneBook_autogen_timestamp_deps::@70b2cf7f1f1f6ba00788",
-					"jsonFile" : "target-testPhoneBook_autogen_timestamp_deps-Release-eeb0cf131b99c6f8bb03.json",
+					"jsonFile" : "target-testPhoneBook_autogen_timestamp_deps-Release-d1fc034fc3089f2590f6.json",
 					"name" : "testPhoneBook_autogen_timestamp_deps",
 					"projectIndex" : 1
 				}
@@ -143,8 +143,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/burma/Desktop/C++/HW/HW-40 unit tests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release",
-		"source" : "C:/Users/burma/Desktop/C++/HW/HW-40 unit tests/pr-1/PhoneBook"
+		"build" : "C:/Users/burma/Desktop/C++/HW/HW-40unitTests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release",
+		"source" : "C:/Users/burma/Desktop/C++/HW/HW-40unitTests/pr-1/PhoneBook"
 	},
 	"version" : 
 	{

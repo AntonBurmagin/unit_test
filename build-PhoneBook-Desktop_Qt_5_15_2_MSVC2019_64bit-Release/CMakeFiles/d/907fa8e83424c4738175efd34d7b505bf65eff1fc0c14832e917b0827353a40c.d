@@ -221,7 +221,6 @@ test/testPhoneBook/testPhoneBook_autogen/timestamp: \
   C:/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Test/Qt5TestConfigExtras.cmake \
   C:/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Test/Qt5TestConfigVersion.cmake \
   C:/Qt/Tools/QtCreator/share/qtcreator/package-manager/auto-setup.cmake \
-  C:/Users/burma/Desktop/C++/HW/HW-40\ unit\ tests/pr-1/PhoneBook/PhoneBook_global.h \
   C:/Users/burma/Desktop/C++/HW/HW-40\ unit\ tests/pr-1/PhoneBook/phonebook.h \
   C:/Users/burma/Desktop/C++/HW/HW-40\ unit\ tests/pr-1/PhoneBook/test/testPhoneBook/CMakeLists.txt \
   C:/Users/burma/Desktop/C++/HW/HW-40\ unit\ tests/pr-1/PhoneBook/test/testPhoneBook/test.cpp \
