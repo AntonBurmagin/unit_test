@@ -1,55 +1,43 @@
 # ninja log v5
 17	661	671816969	main.cpp_autogen/timestamp	bb34fd2f8f887de5
-884	2300	671823324	C:/Users/burma/Desktop/C++/HW/HW-40 unit tests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release/test/testPhoneBook/testPhoneBook_autogen/mocs_compilation.cpp	d2e853c54a415405
-11	258	671823322	PhoneBook_autogen/timestamp	cfa2519d4acd1a2f
-884	2300	671823324	C:/Users/burma/Desktop/C++/HW/HW-40 unit tests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release/test/testPhoneBook/testPhoneBook_autogen/timestamp	d2e853c54a415405
-11	258	671823322	PhoneBook_autogen/mocs_compilation.cpp	cfa2519d4acd1a2f
+606	1290	671823450	C:/Users/burma/Desktop/C++/HW/HW-40 unit tests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release/test/testPhoneBook/testPhoneBook_autogen/mocs_compilation.cpp	d2e853c54a415405
+5	373	673118052	PhoneBook_autogen/timestamp	29bc9775162378c9
+606	1290	671823450	C:/Users/burma/Desktop/C++/HW/HW-40 unit tests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release/test/testPhoneBook/testPhoneBook_autogen/timestamp	d2e853c54a415405
+5	373	673118052	PhoneBook_autogen/mocs_compilation.cpp	29bc9775162378c9
 11	258	671823322	C:/Users/burma/Desktop/C++/HW/HW-40 unit tests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release/PhoneBook_autogen/timestamp	cfa2519d4acd1a2f
-261	883	671822666	PhoneBook.dll	a91be09526de79e1
-286	3764	671822666	CMakeFiles/PhoneBook.dir/phonebook.cpp.obj	42c2dda36a6a51c9
 11	258	671823322	C:/Users/burma/Desktop/C++/HW/HW-40 unit tests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release/PhoneBook_autogen/mocs_compilation.cpp	cfa2519d4acd1a2f
-293	1320	671822663	CMakeFiles/PhoneBook.dir/PhoneBook_autogen/mocs_compilation.cpp.obj	483b4401322bb201
-6106	11069	671817267	CMakeFiles/PhoneBook.dir/main.cpp.obj	ed76685c2eba8eda
-11071	12440	671817269	PhoneBook.exe	e62a00ee3f4bd98a
-884	2300	671823324	test/testPhoneBook/testPhoneBook_autogen/timestamp	d2e853c54a415405
-884	2300	671823324	test/testPhoneBook/testPhoneBook_autogen/mocs_compilation.cpp	d2e853c54a415405
-8202	9430	670952019	test/testPhoneBook/CMakeFiles/testPhoneBook.dir/testPhoneBook_autogen/mocs_compilation.cpp.obj	a59d459664c9babc
-8626	17138	670952499	test/testPhoneBook/CMakeFiles/testPhoneBook.dir/test.cpp.obj	aafb95be1cab15b4
-3	778	671823322	build.ninja	b9eace17099cc75e
+378	4555	673118056	CMakeFiles/PhoneBook.dir/phonebook.cpp.obj	98af0832135f3d43
+4615	5776	673103009	PhoneBook.dll	a91be09526de79e1
+398	744	673118053	CMakeFiles/PhoneBook.dir/PhoneBook_autogen/mocs_compilation.cpp.obj	da265c1a51df4446
+5639	6598	673118058	PhoneBook.exe	e62a00ee3f4bd98a
+389	5638	673118058	CMakeFiles/PhoneBook.dir/main.cpp.obj	d5875c4de380d5
+12394	14191	673117915	test/testPhoneBook/testPhoneBook_autogen/timestamp	607983ea420ee571
+12394	14191	673117915	test/testPhoneBook/testPhoneBook_autogen/mocs_compilation.cpp	607983ea420ee571
+7788	7953	671825887	test/testPhoneBook/CMakeFiles/testPhoneBook.dir/testPhoneBook_autogen/mocs_compilation.cpp.obj	e17161a6be603316
+14213	20000	673117921	test/testPhoneBook/CMakeFiles/testPhoneBook.dir/test.cpp.obj	11eee9040e571a39
+12394	14191	673117915	C:/Users/burma/Desktop/C++/HW/HW-40unitTests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release/test/testPhoneBook/testPhoneBook_autogen/mocs_compilation.cpp	607983ea420ee571
+4	952	673118051	build.ninja	428a607f7135f46c
 17	661	671816969	main.cpp_autogen/mocs_compilation.cpp	bb34fd2f8f887de5
 17	661	671816969	C:/Users/burma/Desktop/C++/HW/HW-40 unit tests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release/main.cpp_autogen/timestamp	bb34fd2f8f887de5
 17	661	671816969	C:/Users/burma/Desktop/C++/HW/HW-40 unit tests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release/main.cpp_autogen/mocs_compilation.cpp	bb34fd2f8f887de5
 556	818	671816951	CMakeFiles/main.cpp.dir/main.cpp_autogen/mocs_compilation.cpp.obj	710406ab08d3182f
-38	585	671822666	PhoneBook.dll	a91be09526de79e1
-38	585	671822666	PhoneBook.lib	a91be09526de79e1
-4	769	671823427	build.ninja	b9eace17099cc75e
-10	551	671822666	PhoneBook.dll	a91be09526de79e1
-10	551	671822666	PhoneBook.lib	a91be09526de79e1
-552	1206	671823429	test/testPhoneBook/testPhoneBook_autogen/timestamp	d2e853c54a415405
-552	1206	671823429	test/testPhoneBook/testPhoneBook_autogen/mocs_compilation.cpp	d2e853c54a415405
-552	1206	671823429	C:/Users/burma/Desktop/C++/HW/HW-40 unit tests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release/test/testPhoneBook/testPhoneBook_autogen/timestamp	d2e853c54a415405
-552	1206	671823429	C:/Users/burma/Desktop/C++/HW/HW-40 unit tests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release/test/testPhoneBook/testPhoneBook_autogen/mocs_compilation.cpp	d2e853c54a415405
-3	728	671823448	build.ninja	b9eace17099cc75e
-21	606	671822666	PhoneBook.dll	a91be09526de79e1
-21	606	671822666	PhoneBook.lib	a91be09526de79e1
-606	1290	671823450	test/testPhoneBook/testPhoneBook_autogen/timestamp	d2e853c54a415405
-606	1290	671823450	test/testPhoneBook/testPhoneBook_autogen/mocs_compilation.cpp	d2e853c54a415405
-606	1290	671823450	C:/Users/burma/Desktop/C++/HW/HW-40 unit tests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release/test/testPhoneBook/testPhoneBook_autogen/timestamp	d2e853c54a415405
-606	1290	671823450	C:/Users/burma/Desktop/C++/HW/HW-40 unit tests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release/test/testPhoneBook/testPhoneBook_autogen/mocs_compilation.cpp	d2e853c54a415405
-4	1023	671825879	build.ninja	428a607f7135f46c
-8	1385	671825881	PhoneBook_autogen/timestamp	29bc9775162378c9
-8	1385	671825881	PhoneBook_autogen/mocs_compilation.cpp	29bc9775162378c9
-8	1385	671825881	C:/Users/burma/Desktop/C++/HW/HW-40unitTests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release/PhoneBook_autogen/timestamp	29bc9775162378c9
-8	1385	671825881	C:/Users/burma/Desktop/C++/HW/HW-40unitTests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release/PhoneBook_autogen/mocs_compilation.cpp	29bc9775162378c9
-1386	3160	671825882	CMakeFiles/PhoneBook.dir/PhoneBook_autogen/mocs_compilation.cpp.obj	81088bdd8ea16f5c
-1394	5169	671825885	CMakeFiles/PhoneBook.dir/phonebook.cpp.obj	19eb4933769b4469
-5169	6112	671825885	PhoneBook.dll	a91be09526de79e1
-5169	6112	671825885	PhoneBook.lib	a91be09526de79e1
-6113	7787	671825887	test/testPhoneBook/testPhoneBook_autogen/timestamp	607983ea420ee571
-6113	7787	671825887	test/testPhoneBook/testPhoneBook_autogen/mocs_compilation.cpp	607983ea420ee571
-6113	7787	671825887	C:/Users/burma/Desktop/C++/HW/HW-40unitTests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release/test/testPhoneBook/testPhoneBook_autogen/timestamp	607983ea420ee571
-6113	7787	671825887	C:/Users/burma/Desktop/C++/HW/HW-40unitTests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release/test/testPhoneBook/testPhoneBook_autogen/mocs_compilation.cpp	607983ea420ee571
-7788	7953	671825887	test/testPhoneBook/CMakeFiles/testPhoneBook.dir/testPhoneBook_autogen/mocs_compilation.cpp.obj	e17161a6be603316
-7796	12031	671825892	test/testPhoneBook/CMakeFiles/testPhoneBook.dir/test.cpp.obj	11eee9040e571a39
-32	903	671825885	PhoneBook.dll	a91be09526de79e1
-32	903	671825885	PhoneBook.lib	a91be09526de79e1
+11672	12394	673117914	PhoneBook.lib	e66361392cde18a0
+5	373	673118052	C:/Users/burma/Desktop/C++/HW/HW-40unitTests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release/PhoneBook_autogen/timestamp	29bc9775162378c9
+5	373	673118052	C:/Users/burma/Desktop/C++/HW/HW-40unitTests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release/PhoneBook_autogen/mocs_compilation.cpp	29bc9775162378c9
+20001	20796	673117922	test/testPhoneBook/testPhoneBook.exe	e6687d191c5e0187
+12394	14191	673117915	C:/Users/burma/Desktop/C++/HW/HW-40unitTests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release/test/testPhoneBook/testPhoneBook_autogen/timestamp	607983ea420ee571
+6	1924	673118097	build.ninja	428a607f7135f46c
+32	1078	673118099	PhoneBook_autogen/timestamp	29bc9775162378c9
+32	1078	673118099	PhoneBook_autogen/mocs_compilation.cpp	29bc9775162378c9
+32	1078	673118099	C:/Users/burma/Desktop/C++/HW/HW-40unitTests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release/PhoneBook_autogen/timestamp	29bc9775162378c9
+32	1078	673118099	C:/Users/burma/Desktop/C++/HW/HW-40unitTests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release/PhoneBook_autogen/mocs_compilation.cpp	29bc9775162378c9
+1084	1550	673118099	CMakeFiles/PhoneBook.dir/PhoneBook_autogen/mocs_compilation.cpp.obj	92fbcb075ab8fe36
+1098	4030	673118102	CMakeFiles/PhoneBook.dir/phonebook.cpp.obj	301a3eb899caae93
+4031	4225	673118102	PhoneBook.lib	95b4dc19c2327305
+4226	4902	673118103	test/testPhoneBook/testPhoneBook.exe	e6687d191c5e0187
+15	7414	673123251	test/testPhoneBook/testPhoneBook_autogen/timestamp	607983ea420ee571
+15	7414	673123251	test/testPhoneBook/testPhoneBook_autogen/mocs_compilation.cpp	607983ea420ee571
+15	7414	673123251	C:/Users/burma/Desktop/C++/HW/HW-40unitTests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release/test/testPhoneBook/testPhoneBook_autogen/timestamp	607983ea420ee571
+15	7414	673123251	C:/Users/burma/Desktop/C++/HW/HW-40unitTests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release/test/testPhoneBook/testPhoneBook_autogen/mocs_compilation.cpp	607983ea420ee571
+7435	14323	673123258	test/testPhoneBook/CMakeFiles/testPhoneBook.dir/test.cpp.obj	11eee9040e571a39
+14325	17039	673123260	test/testPhoneBook/testPhoneBook.exe	e6687d191c5e0187

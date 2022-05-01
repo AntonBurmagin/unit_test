@@ -41,7 +41,7 @@ include CMakeFiles\rules.ninja
 
 cmake_ninja_workdir = C$:\Users\burma\Desktop\C++\HW\HW-40unitTests\pr-1\build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release\
 # =============================================================================
-# Object build statements for SHARED_LIBRARY target PhoneBook
+# Object build statements for STATIC_LIBRARY target PhoneBook
 
 
 #############################################
@@ -50,42 +50,39 @@ cmake_ninja_workdir = C$:\Users\burma\Desktop\C++\HW\HW-40unitTests\pr-1\build-P
 build cmake_object_order_depends_target_PhoneBook: phony || PhoneBook_autogen PhoneBook_autogen\mocs_compilation.cpp PhoneBook_autogen\timestamp PhoneBook_autogen_timestamp_deps
 
 build CMakeFiles\PhoneBook.dir\PhoneBook_autogen\mocs_compilation.cpp.obj: CXX_COMPILER__PhoneBook_Release C$:\Users\burma\Desktop\C++\HW\HW-40unitTests\pr-1\build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release\PhoneBook_autogen\mocs_compilation.cpp || cmake_object_order_depends_target_PhoneBook
-  DEFINES = -DPHONEBOOK_LIBRARY -DPhoneBook_EXPORTS -DQT_CORE_LIB -DQT_NO_DEBUG
+  DEFINES = -DPHONEBOOK_LIBRARY -DQT_CORE_LIB -DQT_NO_DEBUG
   FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG
   INCLUDES = -IC:\Users\burma\Desktop\C++\HW\HW-40unitTests\pr-1\build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release -IC:\Users\burma\Desktop\C++\HW\HW-40unitTests\pr-1\PhoneBook -IC:\Users\burma\Desktop\C++\HW\HW-40unitTests\pr-1\build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release\PhoneBook_autogen\include -IC:\Qt\5.15.2\msvc2019_64\include -IC:\Qt\5.15.2\msvc2019_64\include\QtCore -IC:\Qt\5.15.2\msvc2019_64\.\mkspecs\win32-msvc
   OBJECT_DIR = CMakeFiles\PhoneBook.dir
   OBJECT_FILE_DIR = CMakeFiles\PhoneBook.dir\PhoneBook_autogen
-  TARGET_COMPILE_PDB = CMakeFiles\PhoneBook.dir\
+  TARGET_COMPILE_PDB = CMakeFiles\PhoneBook.dir\PhoneBook.pdb
   TARGET_PDB = PhoneBook.pdb
 
 build CMakeFiles\PhoneBook.dir\phonebook.cpp.obj: CXX_COMPILER__PhoneBook_Release C$:\Users\burma\Desktop\C++\HW\HW-40unitTests\pr-1\PhoneBook\phonebook.cpp || cmake_object_order_depends_target_PhoneBook
-  DEFINES = -DPHONEBOOK_LIBRARY -DPhoneBook_EXPORTS -DQT_CORE_LIB -DQT_NO_DEBUG
+  DEFINES = -DPHONEBOOK_LIBRARY -DQT_CORE_LIB -DQT_NO_DEBUG
   FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG
   INCLUDES = -IC:\Users\burma\Desktop\C++\HW\HW-40unitTests\pr-1\build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release -IC:\Users\burma\Desktop\C++\HW\HW-40unitTests\pr-1\PhoneBook -IC:\Users\burma\Desktop\C++\HW\HW-40unitTests\pr-1\build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release\PhoneBook_autogen\include -IC:\Qt\5.15.2\msvc2019_64\include -IC:\Qt\5.15.2\msvc2019_64\include\QtCore -IC:\Qt\5.15.2\msvc2019_64\.\mkspecs\win32-msvc
   OBJECT_DIR = CMakeFiles\PhoneBook.dir
   OBJECT_FILE_DIR = CMakeFiles\PhoneBook.dir
-  TARGET_COMPILE_PDB = CMakeFiles\PhoneBook.dir\
+  TARGET_COMPILE_PDB = CMakeFiles\PhoneBook.dir\PhoneBook.pdb
   TARGET_PDB = PhoneBook.pdb
 
 
 # =============================================================================
-# Link build statements for SHARED_LIBRARY target PhoneBook
+# Link build statements for STATIC_LIBRARY target PhoneBook
 
 
 #############################################
-# Link the shared library PhoneBook.dll
+# Link the static library PhoneBook.lib
 
-build PhoneBook.dll PhoneBook.lib: CXX_SHARED_LIBRARY_LINKER__PhoneBook_Release CMakeFiles\PhoneBook.dir\PhoneBook_autogen\mocs_compilation.cpp.obj CMakeFiles\PhoneBook.dir\phonebook.cpp.obj | C$:\Qt\5.15.2\msvc2019_64\lib\Qt5Core.lib || PhoneBook_autogen PhoneBook_autogen_timestamp_deps
+build PhoneBook.lib: CXX_STATIC_LIBRARY_LINKER__PhoneBook_Release CMakeFiles\PhoneBook.dir\PhoneBook_autogen\mocs_compilation.cpp.obj CMakeFiles\PhoneBook.dir\phonebook.cpp.obj || PhoneBook_autogen PhoneBook_autogen_timestamp_deps
   LANGUAGE_COMPILE_FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG
-  LINK_FLAGS = /machine:x64 /INCREMENTAL:NO
-  LINK_LIBRARIES = C:\Qt\5.15.2\msvc2019_64\lib\Qt5Core.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
+  LINK_FLAGS = /machine:x64
   OBJECT_DIR = CMakeFiles\PhoneBook.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  RESTAT = 1
-  TARGET_COMPILE_PDB = CMakeFiles\PhoneBook.dir\
-  TARGET_FILE = PhoneBook.dll
-  TARGET_IMPLIB = PhoneBook.lib
+  TARGET_COMPILE_PDB = CMakeFiles\PhoneBook.dir\PhoneBook.pdb
+  TARGET_FILE = PhoneBook.lib
   TARGET_PDB = PhoneBook.pdb
 
 
@@ -215,7 +212,7 @@ build test\testPhoneBook\CMakeFiles\testPhoneBook.dir\test.cpp.obj: CXX_COMPILER
 #############################################
 # Link the executable test\testPhoneBook\testPhoneBook.exe
 
-build test\testPhoneBook\testPhoneBook.exe: CXX_EXECUTABLE_LINKER__testPhoneBook_Release test\testPhoneBook\CMakeFiles\testPhoneBook.dir\testPhoneBook_autogen\mocs_compilation.cpp.obj test\testPhoneBook\CMakeFiles\testPhoneBook.dir\test.cpp.obj | PhoneBook.lib C$:\Qt\5.15.2\msvc2019_64\lib\Qt5Test.lib C$:\Qt\5.15.2\msvc2019_64\lib\Qt5Core.lib || PhoneBook.dll test\testPhoneBook\testPhoneBook_autogen test\testPhoneBook\testPhoneBook_autogen_timestamp_deps
+build test\testPhoneBook\testPhoneBook.exe: CXX_EXECUTABLE_LINKER__testPhoneBook_Release test\testPhoneBook\CMakeFiles\testPhoneBook.dir\testPhoneBook_autogen\mocs_compilation.cpp.obj test\testPhoneBook\CMakeFiles\testPhoneBook.dir\test.cpp.obj | PhoneBook.lib C$:\Qt\5.15.2\msvc2019_64\lib\Qt5Test.lib C$:\Qt\5.15.2\msvc2019_64\lib\Qt5Core.lib || PhoneBook.lib test\testPhoneBook\testPhoneBook_autogen test\testPhoneBook\testPhoneBook_autogen_timestamp_deps
   FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG
   LINK_FLAGS = /machine:x64 /INCREMENTAL:NO /subsystem:console
   LINK_LIBRARIES = PhoneBook.lib  C:\Qt\5.15.2\msvc2019_64\lib\Qt5Test.lib  C:\Qt\5.15.2\msvc2019_64\lib\Qt5Core.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
@@ -255,7 +252,7 @@ build test\testPhoneBook\rebuild_cache: phony test\testPhoneBook\CMakeFiles\rebu
 #############################################
 # Utility command for testPhoneBook_autogen_timestamp_deps
 
-build test\testPhoneBook\testPhoneBook_autogen_timestamp_deps: phony test\testPhoneBook\CMakeFiles\testPhoneBook_autogen_timestamp_deps PhoneBook.dll
+build test\testPhoneBook\testPhoneBook_autogen_timestamp_deps: phony test\testPhoneBook\CMakeFiles\testPhoneBook_autogen_timestamp_deps PhoneBook.lib
 
 
 #############################################
@@ -267,7 +264,7 @@ build test\testPhoneBook\testPhoneBook_autogen: phony test\testPhoneBook\CMakeFi
 #############################################
 # Custom command for test\testPhoneBook\testPhoneBook_autogen\timestamp
 
-build test\testPhoneBook\testPhoneBook_autogen\timestamp test\testPhoneBook\testPhoneBook_autogen\mocs_compilation.cpp | ${cmake_ninja_workdir}test\testPhoneBook\testPhoneBook_autogen\timestamp ${cmake_ninja_workdir}test\testPhoneBook\testPhoneBook_autogen\mocs_compilation.cpp: CUSTOM_COMMAND C$:\Qt\5.15.2\msvc2019_64\bin\moc.exe || PhoneBook.dll PhoneBook_autogen PhoneBook_autogen_timestamp_deps test\testPhoneBook\testPhoneBook_autogen_timestamp_deps
+build test\testPhoneBook\testPhoneBook_autogen\timestamp test\testPhoneBook\testPhoneBook_autogen\mocs_compilation.cpp | ${cmake_ninja_workdir}test\testPhoneBook\testPhoneBook_autogen\timestamp ${cmake_ninja_workdir}test\testPhoneBook\testPhoneBook_autogen\mocs_compilation.cpp: CUSTOM_COMMAND C$:\Qt\5.15.2\msvc2019_64\bin\moc.exe || PhoneBook.lib PhoneBook_autogen PhoneBook_autogen_timestamp_deps test\testPhoneBook\testPhoneBook_autogen_timestamp_deps
   COMMAND = cmd.exe /C "cd /D C:\Users\burma\Desktop\C++\HW\HW-40unitTests\pr-1\build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release\test\testPhoneBook && C:\Qt\Tools\CMake_64\bin\cmake.exe -E cmake_autogen C:/Users/burma/Desktop/C++/HW/HW-40unitTests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release/test/testPhoneBook/CMakeFiles/testPhoneBook_autogen.dir/AutogenInfo.json Release && C:\Qt\Tools\CMake_64\bin\cmake.exe -E touch C:/Users/burma/Desktop/C++/HW/HW-40unitTests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release/test/testPhoneBook/testPhoneBook_autogen/timestamp && C:\Qt\Tools\CMake_64\bin\cmake.exe -E cmake_transform_depfile Ninja gccdepfile C:/Users/burma/Desktop/C++/HW/HW-40unitTests/pr-1/PhoneBook C:/Users/burma/Desktop/C++/HW/HW-40unitTests/pr-1/PhoneBook/test/testPhoneBook C:/Users/burma/Desktop/C++/HW/HW-40unitTests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release C:/Users/burma/Desktop/C++/HW/HW-40unitTests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release/test/testPhoneBook C:/Users/burma/Desktop/C++/HW/HW-40unitTests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release/test/testPhoneBook/testPhoneBook_autogen/deps C:/Users/burma/Desktop/C++/HW/HW-40unitTests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release/CMakeFiles/d/b44356f5ffb0edd29651f936f9f1ff9270c026b402d4575712a63c8929fc90b0.d"
   DESC = Automatic MOC and UIC for target testPhoneBook
   depfile = C:/Users/burma/Desktop/C++/HW/HW-40unitTests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release/CMakeFiles/d/b44356f5ffb0edd29651f936f9f1ff9270c026b402d4575712a63c8929fc90b0.d
@@ -277,18 +274,18 @@ build test\testPhoneBook\testPhoneBook_autogen\timestamp test\testPhoneBook\test
 #############################################
 # Phony custom command for test\testPhoneBook\CMakeFiles\testPhoneBook_autogen_timestamp_deps
 
-build test\testPhoneBook\CMakeFiles\testPhoneBook_autogen_timestamp_deps | ${cmake_ninja_workdir}test\testPhoneBook\CMakeFiles\testPhoneBook_autogen_timestamp_deps: phony C$:\Qt\5.15.2\msvc2019_64\bin\moc.exe C$:\Qt\5.15.2\msvc2019_64\bin\Qt5Test.dll PhoneBook.dll || PhoneBook.dll PhoneBook_autogen PhoneBook_autogen_timestamp_deps
+build test\testPhoneBook\CMakeFiles\testPhoneBook_autogen_timestamp_deps | ${cmake_ninja_workdir}test\testPhoneBook\CMakeFiles\testPhoneBook_autogen_timestamp_deps: phony C$:\Qt\5.15.2\msvc2019_64\bin\moc.exe C$:\Qt\5.15.2\msvc2019_64\bin\Qt5Test.dll PhoneBook.lib || PhoneBook.lib PhoneBook_autogen PhoneBook_autogen_timestamp_deps
 
 
 #############################################
 # Phony custom command for test\testPhoneBook\CMakeFiles\testPhoneBook_autogen
 
-build test\testPhoneBook\CMakeFiles\testPhoneBook_autogen | ${cmake_ninja_workdir}test\testPhoneBook\CMakeFiles\testPhoneBook_autogen: phony test\testPhoneBook\testPhoneBook_autogen\timestamp || PhoneBook.dll PhoneBook_autogen PhoneBook_autogen_timestamp_deps test\testPhoneBook\testPhoneBook_autogen_timestamp_deps
+build test\testPhoneBook\CMakeFiles\testPhoneBook_autogen | ${cmake_ninja_workdir}test\testPhoneBook\CMakeFiles\testPhoneBook_autogen: phony test\testPhoneBook\testPhoneBook_autogen\timestamp || PhoneBook.lib PhoneBook_autogen PhoneBook_autogen_timestamp_deps test\testPhoneBook\testPhoneBook_autogen_timestamp_deps
 
 # =============================================================================
 # Target aliases.
 
-build PhoneBook: phony PhoneBook.dll
+build PhoneBook: phony PhoneBook.lib
 
 build testPhoneBook: phony test\testPhoneBook\testPhoneBook.exe
 
@@ -306,7 +303,7 @@ build testPhoneBook_autogen_timestamp_deps: phony test\testPhoneBook\testPhoneBo
 #############################################
 # Folder: C:/Users/burma/Desktop/C++/HW/HW-40unitTests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release
 
-build all: phony PhoneBook.dll test\all
+build all: phony PhoneBook.lib test\all
 
 # =============================================================================
 

@@ -58,14 +58,7 @@
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
 	"INCLUDE_DIR" : "C:/Users/burma/Desktop/C++/HW/HW-40unitTests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release/PhoneBook_autogen/include",
 	"MOC_COMPILATION_FILE" : "C:/Users/burma/Desktop/C++/HW/HW-40unitTests/pr-1/build-PhoneBook-Desktop_Qt_5_15_2_MSVC2019_64bit-Release/PhoneBook_autogen/mocs_compilation.cpp",
-	"MOC_DEFINITIONS" : 
-	[
-		"PHONEBOOK_LIBRARY",
-		"PhoneBook_EXPORTS",
-		"QT_CORE_LIB",
-		"QT_NO_DEBUG",
-		"WIN32"
-	],
+	"MOC_DEFINITIONS" : [ "PHONEBOOK_LIBRARY", "QT_CORE_LIB", "QT_NO_DEBUG", "WIN32" ],
 	"MOC_DEPEND_FILTERS" : 
 	[
 		[

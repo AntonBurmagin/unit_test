@@ -12,8 +12,7 @@ struct Record {
     Record(QString name, QString secName, QString number) : firstName(name), lastName(secName), phone(number){};
 };
 
-class PHONEBOOK_EXPORT PhoneBook  // без define PHONEBOOK_EXPORT компилятор считает его названием класса
-                                    // и выдает ошибку "variable has incomplete type 'class PHONEBOOK_EXPORT'"
+class PHONEBOOK_EXPORT PhoneBook
 {
 public:
     PhoneBook();
